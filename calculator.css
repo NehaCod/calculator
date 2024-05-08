@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.cal-container{
+    border: 2px solid black;
+    height: 500px;
+    width: 300px;
+    background-color: #EEEDEB;
+
+}
+.btn-containcer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+button{
+    height: 60px;
+    width: 60px;
+    margin: 4px;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+    background-color: #E0CCBE;
+}
+input{
+    margin-top: 20px;
+}
+
+.box{
+    height: 40px;
+    width: 280px;
+    font-size: 30px;
+    border: none;
+    background-color: #747264;
+}
+.ans1{
+    margin-left: 10px;
+    text-align: start;
+}
+.ans{
+    margin-right: 230px;
+    font-size: 40px;
+    margin-left: 10px;
+}
+.inner{
+    text-align: end;
+}
